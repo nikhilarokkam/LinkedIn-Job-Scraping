@@ -1,6 +1,5 @@
 # LinkedIn Job Scraping Using Python
 
-
 ## Overview
 
 This Python script allows you to scrape job details and links from LinkedIn using web scraping techniques. It provides a simple way to extract valuable job information for analysis or other purposes.
